@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">T3</string>
+    <string name="title_question_1">Pregunta 1</string>
+    <string name="dinner_amount">Monto de Dinero:</string>
+    <string name="results">Resultados:</string>
+    <string name="enter_amount">Ingrese monto</string>
+    <string name="button_text">REPARTIR POR ÁREA</string>
+    <string name="result_one">Contabilidad (20%)</string>
+    <string name="result_two">Seguridad (30%)</string>
+    <string name="result_three">Sistemas (50%)</string>
 </resources>
